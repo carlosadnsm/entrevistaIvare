@@ -8,7 +8,7 @@ function App() {
     <div className="app">
       <header className="app-header">
         <h1>React App</h1>
-        <p>Edit src/App.js and save to reload</p>
+        <p>Edit src/App.jsx and save to reload</p>
         <button onClick={() => setCount(count + 1)}>
           Count: {count}
         </button>
