@@ -1,0 +1,7 @@
+{
+  "name": "Mapa de Locais Favoritos",
+  "description": "Uma aplicação interativa para buscar, selecionar e salvar seus locais favoritos no mapa com persistência de dados.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
